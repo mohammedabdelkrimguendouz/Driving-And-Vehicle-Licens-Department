@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC0\\Desktop\\basics\\19 - Full Real Project\\My_Project_DVLD_17-07-2024\\My_Project\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D2098E-E140-4305-84BA-A68BFDE03187}|DVLD\\DVLD.csproj|c:\\users\\pc0\\desktop\\basics\\19 - full real project\\my_project_dvld_17-07-2024\\my_project\\dvld\\dvld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8D2098E-E140-4305-84BA-A68BFDE03187}|DVLD\\DVLD.csproj|solutionrelative:dvld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC0\\Desktop\\basics\\19 - Full Real Project\\My_Project_DVLD_17-07-2024\\My_Project\\DVLD\\DVLD\\frmMain.cs",
+              "RelativeDocumentMoniker": "DVLD\\frmMain.cs",
+              "ToolTip": "C:\\Users\\PC0\\Desktop\\basics\\19 - Full Real Project\\My_Project_DVLD_17-07-2024\\My_Project\\DVLD\\DVLD\\frmMain.cs [Design]",
+              "RelativeToolTip": "DVLD\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T00:21:32.907Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

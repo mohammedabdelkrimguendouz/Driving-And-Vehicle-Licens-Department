@@ -1,0 +1,765 @@
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.ctrlPersonCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmLogin.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlPassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlUserCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmChangePassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmListUsers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmAddUpdateUser.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmListApplicationTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmUpdateApplicationType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmListTestTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmUpdateTestType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License_Applications.frmAddUpdateLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Global.frmSendEmail.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.frmListLocalDrivingLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Controls.ctrlApplicationBasicInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.frmShowLocalDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.VisionTest.frmListTestAppointments.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduledTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.Controls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmIssueDriverLicenseFirstTime.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.frmShowDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost_Licenses.frmReplacementDrivingLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.ctrlDriverLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmShowPersonLicensesHistory.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmDetainLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmListDetainedLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmNewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_InternationalLicenseInfos.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmListInternationalLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmCreateBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmRestoreBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.Controls.ctrlDriverInternationalLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_International_License.frmRenewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost__International_Licenses.frmReplacementInternationalLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmListViolations.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmUpdateViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmChooseViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmListApplicationTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmUpdateApplicationType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Controls.ctrlApplicationBasicInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmListInternationalLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_International_License.frmRenewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost__International_Licenses.frmReplacementInternationalLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmCreateBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmRestoreBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_InternationalLicenseInfos.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmNewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.Controls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.frmListLocalDrivingLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License_Applications.frmAddUpdateLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.frmShowLocalDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost_Licenses.frmReplacementDrivingLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.ctrlDriverLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Global.frmSendEmail.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.Controls.ctrlDriverInternationalLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmDetainLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmListDetainedLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmShowPersonLicensesHistory.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.frmShowDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmIssueDriverLicenseFirstTime.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.ctrlPersonCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlPassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduledTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmListTestTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmUpdateTestType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.VisionTest.frmListTestAppointments.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlUserCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmAddUpdateUser.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmChangePassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmListUsers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmLogin.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmChooseViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmListViolations.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmUpdateViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmListApplicationTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmUpdateApplicationType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Controls.ctrlApplicationBasicInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmListInternationalLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_International_License.frmRenewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost__International_Licenses.frmReplacementInternationalLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmCreateBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmRestoreBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_InternationalLicenseInfos.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmNewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.Controls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.frmListLocalDrivingLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License_Applications.frmAddUpdateLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.frmShowLocalDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost_Licenses.frmReplacementDrivingLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.ctrlDriverLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Global.frmSendEmail.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.Controls.ctrlDriverInternationalLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmDetainLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmListDetainedLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmShowPersonLicensesHistory.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.frmShowDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmIssueDriverLicenseFirstTime.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.ctrlPersonCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlPassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduledTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmListTestTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmUpdateTestType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.VisionTest.frmListTestAppointments.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlUserCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmAddUpdateUser.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmChangePassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmListUsers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmLogin.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmChooseViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmListViolations.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmUpdateViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe.config
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\EASendMail.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.xml
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmListApplicationTypes.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmUpdateApplicationType.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Controls.ctrlApplicationBasicInfo.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmListInternationalLicenseApplications.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_International_License.frmRenewInternationalLicenseApplication.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost__International_Licenses.frmReplacementInternationalLicenseDamagedOrLost.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmCreateBackup.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmRestoreBackup.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_InternationalLicenseInfos.ctrlDriverInternationalLicenseInfo.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmNewInternationalLicenseApplication.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.Controls.ctrlDrivingLicenseApplicationInfo.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.frmListLocalDrivingLicenseApplications.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License_Applications.frmAddUpdateLocalDrivingLicenseApplication.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.frmShowLocalDrivingLicenseApplicationInfo.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost_Licenses.frmReplacementDrivingLicenseDamagedOrLost.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.ctrlDriverLicenses.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmMain.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmTest.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Global.frmSendEmail.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.Controls.ctrlDriverInternationalLicenseInfoWithFilter.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmDetainLicense.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmListDetainedLicenses.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmShowPersonLicensesHistory.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowDriverInternationalLicenseInfo.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.frmShowDriverLicenseInfo.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmIssueDriverLicenseFirstTime.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.ctrlPersonCard.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.Controls.ctrlPersonCardWithFilter.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlPassword.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduledTest.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduleTest.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmListTestTypes.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmUpdateTestType.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.VisionTest.frmListTestAppointments.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlUserCard.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmAddUpdateUser.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmChangePassword.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmListUsers.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmLogin.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmShowUserInfo.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmChooseViolation.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmListViolations.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmUpdateViolation.resources
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.Up2Date
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.exe
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmForgotPassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmListApplicationTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmUpdateApplicationType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Controls.ctrlApplicationBasicInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmListInternationalLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_International_License.frmRenewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost__International_Licenses.frmReplacementInternationalLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmCreateBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmRestoreBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_InternationalLicenseInfos.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmNewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.Controls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.frmListLocalDrivingLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License_Applications.frmAddUpdateLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.frmShowLocalDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost_Licenses.frmReplacementDrivingLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.ctrlDriverLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Global.frmSendEmail.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.Controls.ctrlDriverInternationalLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmDetainLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmListDetainedLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmShowPersonLicensesHistory.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.frmShowDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmIssueDriverLicenseFirstTime.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.ctrlPersonCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlPassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduledTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmListTestTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmUpdateTestType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.VisionTest.frmListTestAppointments.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlUserCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmAddUpdateUser.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmChangePassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmForgotPassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmListUsers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmLogin.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmChooseViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmListViolations.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmUpdateViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_06-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmListApplicationTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmUpdateApplicationType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Controls.ctrlApplicationBasicInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmListInternationalLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_International_License.frmRenewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost__International_Licenses.frmReplacementInternationalLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmCreateBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmRestoreBackup.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_InternationalLicenseInfos.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmNewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.Controls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.frmListLocalDrivingLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License_Applications.frmAddUpdateLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.frmShowLocalDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost_Licenses.frmReplacementDrivingLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.ctrlDriverLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Global.frmSendEmail.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.Controls.ctrlDriverInternationalLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmDetainLicense.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmListDetainedLicenses.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmShowPersonLicensesHistory.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.frmShowDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmIssueDriverLicenseFirstTime.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.ctrlPersonCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlPassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduledTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmListTestTypes.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmUpdateTestType.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.VisionTest.frmListTestAppointments.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlUserCard.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmAddUpdateUser.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmChangePassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmForgotPassword.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmListUsers.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmLogin.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmChooseViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmListViolations.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmUpdateViolation.resources
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_DVLD_07-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmListApplicationTypes.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmUpdateApplicationType.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Controls.ctrlApplicationBasicInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmListInternationalLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_International_License.frmRenewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost__International_Licenses.frmReplacementInternationalLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmCreateBackup.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmRestoreBackup.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_InternationalLicenseInfos.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmNewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.Controls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.frmListLocalDrivingLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License_Applications.frmAddUpdateLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.frmShowLocalDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost_Licenses.frmReplacementDrivingLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.ctrlDriverLicenses.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Global.frmSendEmail.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.Controls.ctrlDriverInternationalLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmDetainLicense.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmListDetainedLicenses.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmShowPersonLicensesHistory.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.frmShowDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmIssueDriverLicenseFirstTime.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.ctrlPersonCard.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlPassword.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduledTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduleTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmListTestTypes.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmUpdateTestType.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.VisionTest.frmListTestAppointments.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlUserCard.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmAddUpdateUser.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmChangePassword.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmForgotPassword.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmListUsers.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmLogin.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmChooseViolation.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmListViolations.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmUpdateViolation.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\EASendMail.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\RestSharp.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.CodeDom.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Memory.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Text.Json.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\System.ValueTuple.xml
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmListApplicationTypes.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Application_Types.frmUpdateApplicationType.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Controls.ctrlApplicationBasicInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmListInternationalLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_International_License.frmRenewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost__International_Licenses.frmReplacementInternationalLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmCreateBackup.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Backups.frmRestoreBackup.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_InternationalLicenseInfos.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.International_Licenses.frmNewInternationalLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.Controls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.frmListLocalDrivingLicenseApplications.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License_Applications.frmAddUpdateLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Local_Driving_License.frmShowLocalDrivingLicenseApplicationInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.ReleaseDetainedLicense.frmReleaseDetainedLicense.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Applications.Replacement_for_Damaged_or_Lost_Licenses.frmReplacementDrivingLicenseDamagedOrLost.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.ctrlDriverLicenses.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.frmTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Global.frmSendEmail.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.Controls.ctrlDriverInternationalLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmDetainLicense.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Detaind_Licenses.frmListDetainedLicenses.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmShowPersonLicensesHistory.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowDriverInternationalLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.frmShowDriverLicenseInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Licenses.frmIssueDriverLicenseFirstTime.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.ctrlPersonCard.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlPassword.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduledTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.Controls.ctrlScheduleTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmListTestTypes.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.TestTypes.frmUpdateTestType.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Tests.VisionTest.frmListTestAppointments.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.ctrlUserCard.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmAddUpdateUser.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmChangePassword.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmForgotPassword.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmListUsers.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmLogin.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Users.frmShowUserInfo.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmChooseViolation.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmListViolations.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.Violations.frmUpdateViolation.resources
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.exe
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD\DVLD\obj\Debug\DVLD.pdb

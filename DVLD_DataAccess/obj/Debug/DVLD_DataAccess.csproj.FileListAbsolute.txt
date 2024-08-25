@@ -1,0 +1,36 @@
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb

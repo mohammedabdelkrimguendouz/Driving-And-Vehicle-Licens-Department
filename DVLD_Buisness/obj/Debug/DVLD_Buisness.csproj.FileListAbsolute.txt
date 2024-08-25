@@ -1,0 +1,54 @@
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_04-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\Cours19\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+D:\My_Project_DVLD_06-07-2024\My_Project_05-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_09-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\PC0\Desktop\basics\19 - Full Real Project\My_Project_DVLD_16-07-2024\My_Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
