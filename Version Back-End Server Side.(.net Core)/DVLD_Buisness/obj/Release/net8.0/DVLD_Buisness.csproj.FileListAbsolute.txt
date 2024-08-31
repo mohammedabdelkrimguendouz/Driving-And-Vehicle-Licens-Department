@@ -1,0 +1,15 @@
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\bin\Release\net8.0\DVLD_Buisness.deps.json
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\bin\Release\net8.0\DVLD_Buisness.dll
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\bin\Release\net8.0\DVLD_Buisness.pdb
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\bin\Release\net8.0\DVLD_DataAccess.dll
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\bin\Release\net8.0\DVLD_DataAccess.pdb
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\DVLD_Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\DVLD_Buisness.AssemblyInfoInputs.cache
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\DVLD_Buisness.AssemblyInfo.cs
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\DVLD_Buisness.dll
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\refint\DVLD_Buisness.dll
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\DVLD_Buisness.pdb
+C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_Buisness\obj\Release\net8.0\ref\DVLD_Buisness.dll
