@@ -10,3 +10,29 @@ C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_DataAccess\obj\Deb
 C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_DataAccess\obj\Debug\net8.0\refint\DVLD_DataAccess.dll
 C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.pdb
 C:\Users\DELL PRO\Videos\DVLD _ Server Side On .net Core\DVLD_DataAccess\obj\Debug\net8.0\ref\DVLD_DataAccess.dll
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\bin\Debug\net8.0\DVLD_DataAccess.deps.json
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\bin\Debug\net8.0\DVLD_DataAccess.dll
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\bin\Debug\net8.0\DVLD_DataAccess.pdb
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.AssemblyInfo.cs
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.sourcelink.json
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.dll
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\refint\DVLD_DataAccess.dll
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.pdb
+C:\Users\DELL PRO\Videos\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\ref\DVLD_DataAccess.dll
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\bin\Debug\net8.0\DVLD_DataAccess.deps.json
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\bin\Debug\net8.0\DVLD_DataAccess.dll
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\bin\Debug\net8.0\DVLD_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.AssemblyInfo.cs
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.sourcelink.json
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.dll
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\refint\DVLD_DataAccess.dll
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\DVLD_DataAccess.pdb
+C:\Users\DELL PRO\Desktop\Karim\My File\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD_DataAccess\obj\Debug\net8.0\ref\DVLD_DataAccess.dll

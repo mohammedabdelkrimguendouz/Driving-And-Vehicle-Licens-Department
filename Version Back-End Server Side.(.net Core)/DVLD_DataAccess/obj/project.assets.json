@@ -2595,11 +2595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL PRO\\Videos\\DVLD _ Server Side On .net Core\\DVLD_DataAccess\\DVLD_DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_DataAccess\\DVLD_DataAccess.csproj",
       "projectName": "DVLD_DataAccess",
-      "projectPath": "C:\\Users\\DELL PRO\\Videos\\DVLD _ Server Side On .net Core\\DVLD_DataAccess\\DVLD_DataAccess.csproj",
+      "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_DataAccess\\DVLD_DataAccess.csproj",
       "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL PRO\\Videos\\DVLD _ Server Side On .net Core\\DVLD_DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",

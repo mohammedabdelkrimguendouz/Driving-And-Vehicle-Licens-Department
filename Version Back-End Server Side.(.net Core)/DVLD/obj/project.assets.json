@@ -3221,11 +3221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL PRO\\Videos\\DVLD _ Server Side On .net Core\\DVLD\\DVLD.csproj",
+      "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\DVLD.csproj",
       "projectName": "DVLD",
-      "projectPath": "C:\\Users\\DELL PRO\\Videos\\DVLD _ Server Side On .net Core\\DVLD\\DVLD.csproj",
+      "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\DVLD.csproj",
       "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL PRO\\Videos\\DVLD _ Server Side On .net Core\\DVLD\\obj\\",
+      "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3243,8 +3243,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\DELL PRO\\Videos\\DVLD _ Server Side On .net Core\\DVLD_Buisness\\DVLD_Buisness.csproj": {
-              "projectPath": "C:\\Users\\DELL PRO\\Videos\\DVLD _ Server Side On .net Core\\DVLD_Buisness\\DVLD_Buisness.csproj"
+            "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\DVLD_Buisness.csproj": {
+              "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\DVLD_Buisness.csproj"
             }
           }
         }
