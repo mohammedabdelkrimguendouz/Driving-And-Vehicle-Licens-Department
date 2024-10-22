@@ -1,7 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\dvld (driving and vehicle licens department) 31-08-2024\\version back-end server side.(.net core)\\dvld\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|solutionrelative:controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98C79D0-8376-49D6-858D-2DC408B33670}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\dvld (driving and vehicle licens department) 31-08-2024\\version back-end server side.(.net core)\\dvld_buisness\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +26,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\clsPerson.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsPerson.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwEAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:18:46.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAAABcBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:20:16.157Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DVLD_DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef7e017dda08b1a2e42181a2e2545ffd27f8fdb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c450d5bce886fa14773fe7dd9ef0685af7fe03f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DVLD_DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DVLD_DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

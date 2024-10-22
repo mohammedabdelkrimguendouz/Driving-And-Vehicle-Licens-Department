@@ -3221,11 +3221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\DVLD.csproj",
+      "projectUniqueName": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\DVLD.csproj",
       "projectName": "DVLD",
-      "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\DVLD.csproj",
+      "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\DVLD.csproj",
       "packagesPath": "C:\\Users\\DELL PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\obj\\",
+      "outputPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3243,8 +3243,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\DVLD_Buisness.csproj": {
-              "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\DVLD_Buisness.csproj"
+            "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\DVLD_Buisness.csproj": {
+              "projectPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\DVLD_Buisness.csproj"
             }
           }
         }
@@ -3299,5 +3299,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Une erreur s’est produite lors de l’obtention des données de vulnérabilité du package : Impossible de charger l'index de service pour la source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

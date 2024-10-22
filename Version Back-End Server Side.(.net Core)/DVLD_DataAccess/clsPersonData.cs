@@ -19,9 +19,9 @@ namespace DVLD_DataAccess
 
         public byte Gender { set; get; }
         public string FirstName { set; get; }
-        public string SecondName { set; get; }
+        public string? SecondName { set; get; }
 
-        public string ThirdName { set; get; }
+        public string? ThirdName { set; get; }
 
         public string LastName { set; get; }
         public string Email { set; get; }
@@ -29,13 +29,13 @@ namespace DVLD_DataAccess
         public string Address { set; get; }
         public DateTime DateOfBirth { set; get; }
 
-        public string ImagePath { set; get; }
+        public string? ImagePath { set; get; }
 
         public int NationalityCountryID { set; get; }
 
-        public PersonDTO(int personID, string nationalNo, byte gender, string firstName, string secondName, 
-            string thirdName, string lastName, string email, string phone, string address, DateTime 
-            dateOfBirth, string imagePath, int nationalityCountryID)
+        public PersonDTO(int personID, string nationalNo, byte gender, string firstName, string? secondName, 
+            string? thirdName, string lastName, string email, string phone, string address, DateTime 
+            dateOfBirth, string? imagePath, int nationalityCountryID)
         {
             PersonID = personID;
             NationalNo = nationalNo;
@@ -52,7 +52,7 @@ namespace DVLD_DataAccess
             NationalityCountryID = nationalityCountryID;
         }
 
-       
+        public PersonDTO() { }
     }
 
     public class PeopleListDTO
@@ -101,6 +101,8 @@ namespace DVLD_DataAccess
             CountryName = countryName;
         }
     }
+
+
     public class clsPersonData
     {
         public static int AddNewPerson(PersonDTO personDTO)

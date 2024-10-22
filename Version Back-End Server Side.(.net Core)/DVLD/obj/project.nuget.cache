@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0FXkVwk9g5c=",
+  "dgSpecHash": "BLSs5T6Lqsc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\DVLD.csproj",
+  "projectFilePath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\DVLD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL PRO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL PRO\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -63,5 +63,12 @@
     "C:\\Users\\DELL PRO\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
     "C:\\Users\\DELL PRO\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Une erreur s’est produite lors de l’obtention des données de vulnérabilité du package : Impossible de charger l'index de service pour la source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

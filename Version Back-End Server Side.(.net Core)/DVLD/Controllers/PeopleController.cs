@@ -5,6 +5,7 @@ using DVLD_Buisness.Global_Classes;
 using DVLD_DataAccess;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace DVLD.Controllers
 {
@@ -87,11 +88,13 @@ namespace DVLD.Controllers
         }
 
 
+
+
         [HttpGet("GetPersonByID/{PersonID}", Name = "GetPersonByID")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult<PersonDTO> GetPersonByID(int PersonID)
+        public IActionResult GetPersonByID(int PersonID)
         {
             if (PersonID < 1)
                 return BadRequest("Not Accepted ID : " + PersonID);
@@ -101,8 +104,11 @@ namespace DVLD.Controllers
             if (Person == null)
                 return NotFound("Person With ID : " + PersonID + " Not Found !");
 
-            return Ok(Person.personDTO);
-
+            return Ok(new
+            { 
+                personInfo = Person.personDTO,
+                countryInfo = Person.CountryInfo.countryDTO
+            });
         }
 
 
@@ -110,7 +116,7 @@ namespace DVLD.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult<PersonDTO> GetPersonByNationNo(string NationalNo)
+        public IActionResult GetPersonByNationNo(string NationalNo)
         {
             if (string.IsNullOrEmpty(NationalNo))
                 return BadRequest("Not Accepted National No : " + NationalNo);
@@ -120,7 +126,11 @@ namespace DVLD.Controllers
             if (Person == null)
                 return NotFound("Person With National No : " + NationalNo + " Not Found !");
 
-            return Ok(Person.personDTO);
+            return Ok(new
+            {
+                personInfo = Person.personDTO,
+                countryInfo = Person.CountryInfo.countryDTO
+            });
 
         }
 
@@ -128,22 +138,27 @@ namespace DVLD.Controllers
 
 
         [HttpPost("AddPerson", Name = "AddPerson")]
-        //[Consumes("multipart/form-data")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status409Conflict)]
-        public ActionResult<PersonDTO> AddPerson(PersonDTO NewPersonDTO ,clsPerson.enGender Gender)
+        public async Task<IActionResult>  AddPerson([FromForm] PersonDTO NewPersonDTO, IFormFile ImageFile)
         {
             
 
-            if (NewPersonDTO == null || string.IsNullOrEmpty(NewPersonDTO.NationalNo) ||
+            if (NewPersonDTO==null || string.IsNullOrEmpty(NewPersonDTO.NationalNo) ||
                  string.IsNullOrEmpty(NewPersonDTO.FirstName) || string.IsNullOrEmpty(NewPersonDTO.LastName)
                  || NewPersonDTO.NationalityCountryID<1 || string.IsNullOrEmpty(NewPersonDTO.Phone)||
-                 !clsValidation.IsNumber(NewPersonDTO.Phone))
+                 !clsValidation.IsNumber(NewPersonDTO.Phone) || !Enum.IsDefined(typeof(clsPerson.enGender),(Int32) NewPersonDTO.Gender))
 
                 return BadRequest("Invalid Person Data !");
 
+
+            if (ImageFile == null || ImageFile.Length == 0)
+                return BadRequest("No Image File Uploaded !");
+
+            if (!ImageFile.ContentType.StartsWith("image/"))
+                return BadRequest("The uploaded file is not an image.");
 
 
             if (!string.IsNullOrEmpty(NewPersonDTO.Email) && !clsValidation.ValidateEmail(NewPersonDTO.Email))
@@ -159,15 +174,16 @@ namespace DVLD.Controllers
                 return BadRequest("National Number "+ NewPersonDTO.NationalNo+" already exist");
 
 
+            string? FilePath = await clsUtil.CopyImageToProjectImagesFolder(ImageFile);
+
+            if (FilePath == null)
+                return StatusCode(500, "Error Save Image");
+
            
-
-
-
-
             clsPerson Person = new clsPerson(
-                new PersonDTO(-1,NewPersonDTO.NationalNo,(byte)Gender,NewPersonDTO.FirstName,NewPersonDTO.SecondName,
+                new PersonDTO(-1,NewPersonDTO.NationalNo,NewPersonDTO.Gender, NewPersonDTO.FirstName,NewPersonDTO.SecondName,
                 NewPersonDTO.ThirdName,NewPersonDTO.LastName,NewPersonDTO.Email,NewPersonDTO.Phone,NewPersonDTO.Address,
-                NewPersonDTO.DateOfBirth,"",NewPersonDTO.NationalityCountryID)
+                NewPersonDTO.DateOfBirth, FilePath, NewPersonDTO.NationalityCountryID)
                 );
 
 
@@ -175,46 +191,99 @@ namespace DVLD.Controllers
                 return StatusCode(409, "Error Add Person ,! no row add");
 
 
-            NewPersonDTO.PersonID = Person.PersonID;
             
 
-            return CreatedAtRoute("GetPersonByID", new { PersonID = NewPersonDTO.PersonID }, NewPersonDTO);
+            return CreatedAtRoute("GetPersonByID", new { PersonID = Person.PersonID }, new
+            {
+                personInfo = Person.personDTO,
+                countryInfo = Person.CountryInfo.countryDTO
+            });
 
 
         }
 
 
-        [HttpPost("UploadPersonImage/{PersonID}",Name = "UploadPersonImage")]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [HttpPut("UpdatePerson", Name = "UpdatePerson")]
         [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> UploadPersonImage(int PersonID, IFormFile ImageFile)
+        [ProducesResponseType(StatusCodes.Status409Conflict)]
+        public async Task<IActionResult> UpdatePerson(int PersonID,[FromForm] PersonDTO UpdatedPersonDTO, IFormFile? ImageFile)
         {
-            clsPerson person=clsPerson.Find(PersonID);
-            if(person==null)
-                return NotFound("Person With id "+PersonID+" Not Found");
 
-            if (ImageFile == null || ImageFile.Length == 0)
-                return BadRequest("No File Uploaded !");
 
             
-            if (!ImageFile.ContentType.StartsWith("image/"))
-                 return BadRequest("The uploaded file is not an image.");
 
-           
-             
-            string? FilePath = await clsUtil.CopyImageToProjectImagesFolder(ImageFile);
 
-            if (FilePath == null)
-                return StatusCode(500, "Error Save Image");
+            clsPerson Person = clsPerson.Find(PersonID);
+            if (Person == null)
+                return NotFound("Person With ID: " + Person + " Not Found!");
 
-            person.ImagePath = FilePath;
-            if(!person.Save())
-                return StatusCode(500, "Error Save Image");
+            if(Person.Phone!=UpdatedPersonDTO.Phone && !clsValidation.IsNumber(UpdatedPersonDTO.Phone))
+                return BadRequest("Phone is not valide");
 
-            return Ok(new { FilePath });
+            if (Person.Gender != (byte)UpdatedPersonDTO.Gender && !Enum.IsDefined(typeof(clsPerson.enGender), (Int32)UpdatedPersonDTO.Gender))
+                return BadRequest("Gender Not defind");
+
+            if (Person.Email!=UpdatedPersonDTO.Email && clsPerson.ISPersonExist(UpdatedPersonDTO.Email))
+                return BadRequest("Email already Exist");
+
+
+            if (Person.NationalityCountryID!=UpdatedPersonDTO.NationalityCountryID &&  (clsCountry.Find(UpdatedPersonDTO.NationalityCountryID) == null))
+                return NotFound("Country With id " + UpdatedPersonDTO.NationalityCountryID + " Not Found");
+
+
+
+            if (Person.NationalNo!=UpdatedPersonDTO.NationalNo &&  clsPerson.ISPersonExist(Convert.ToString(UpdatedPersonDTO.NationalNo)))
+                return BadRequest("National Number  already exist");
+
+            string ImagePath = Person.ImagePath;
+
+            if (ImageFile != null && ImageFile.Length != 0)
+            {
+                if (!ImageFile.ContentType.StartsWith("image/"))
+                    return BadRequest("The uploaded file is not an image.");
+
+                if(!clsUtil.DeleteImageFromProjectImagesFolder(Person.ImagePath))
+                    return StatusCode(409, "Error delete old image person");
+                if((ImagePath = await clsUtil.CopyImageToProjectImagesFolder(ImageFile))==null)
+                    return StatusCode(409, "Error change image person");
+
+
+            }
+
+
+            Person.NationalNo=UpdatedPersonDTO.NationalNo;
+            Person.FirstName=UpdatedPersonDTO.FirstName;
+            Person.SecondName=UpdatedPersonDTO.SecondName;
+            Person.ThirdName = UpdatedPersonDTO.ThirdName;
+            Person.LastName = UpdatedPersonDTO.LastName;
+            Person.Email = UpdatedPersonDTO.Email;
+            Person.Gender = UpdatedPersonDTO.Gender;
+            Person.Address = UpdatedPersonDTO.Address;
+            Person.Phone = UpdatedPersonDTO.Phone;
+            Person.DateOfBirth = UpdatedPersonDTO.DateOfBirth;
+            Person.NationalityCountryID=UpdatedPersonDTO.NationalityCountryID;
+            Person.ImagePath = ImagePath;
+
+
+
+            if (!Person.Save())
+                return StatusCode(409, "Error update Person");
+
+
+
+
+            return Ok( new
+            {
+                personInfo = Person.personDTO,
+                countryInfo = Person.CountryInfo.countryDTO
+            });
+
         }
+
+
+
 
         [HttpPost("GetPersonImage/{PersonID}", Name = "GetPersonImage")]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -232,7 +301,7 @@ namespace DVLD.Controllers
                 return NotFound("Image Not Found !");
 
             var Image = System.IO.File.OpenRead(FilePath);
-            var MimeType = GetMimeType(FilePath);
+            var MimeType = clsUtil.GetMimeType(FilePath);
 
 
 
@@ -240,19 +309,7 @@ namespace DVLD.Controllers
             return File(Image, MimeType);
         }
 
-        private string GetMimeType(string FilePath)
-        {
-            var Extension = Path.GetExtension(FilePath).ToLowerInvariant();
-
-            return Extension switch
-            {
-                ".jpg" => "image/jpg",
-                ".jpeg" => "image/jpeg",
-                ".png" => "image/png",
-                ".gif" => "image/gif",
-                _ => "application/octet-stream"
-            };
-        }
+       
 
     }
 }
