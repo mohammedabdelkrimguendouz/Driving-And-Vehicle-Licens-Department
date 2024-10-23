@@ -3,11 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\dvld (driving and vehicle licens department) 31-08-2024\\version back-end server side.(.net core)\\dvld\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|solutionrelative:controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\dvld (driving and vehicle licens department) 31-08-2024\\version back-end server side.(.net core)\\dvld\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D98C79D0-8376-49D6-858D-2DC408B33670}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\dvld (driving and vehicle licens department) 31-08-2024\\version back-end server side.(.net core)\\dvld_buisness\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\dvld (driving and vehicle licens department) 31-08-2024\\version back-end server side.(.net core)\\dvld\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "clsPerson.cs",
-              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\clsPerson.cs",
-              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsPerson.cs",
-              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD_Buisness\\clsPerson.cs",
-              "RelativeToolTip": "..\\DVLD_Buisness\\clsPerson.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAqwEAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T11:18:46.023Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T19:51:04.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PeopleController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\Controllers\\PeopleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PeopleController.cs",
-              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\Controllers\\PeopleController.cs",
-              "RelativeToolTip": "Controllers\\PeopleController.cs",
-              "ViewState": "AgIAANIAAAAAAAAAAAA8wN4AAAA5AAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:20:16.157Z",
+              "WhenOpened": "2024-10-22T19:52:38.108Z",
               "EditorCaption": ""
             }
           ]

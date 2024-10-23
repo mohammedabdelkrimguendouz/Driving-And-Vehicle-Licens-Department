@@ -22,6 +22,29 @@ namespace DVLD_Buisness
                 this.ThirdName, this.LastName, this.Email, this.Phone, this.Address, this.DateOfBirth, this.ImagePath, this.NationalityCountryID);
             }
         }
+
+        public object AllPersonInfo
+        {
+            get
+            {
+                return new
+                {
+                    personID = this.PersonID,
+                    nationalNo = this.NationalNo,
+                    gender = this.Gender,
+                    firstName = this.FirstName,
+                    secondName = this.SecondName,
+                    thirdName = this.ThirdName,
+                    lastName = this.LastName,
+                    email = this.Email,
+                    phone = this.Phone,
+                    address = this.Address,
+                    dateOfBirth = this.DateOfBirth,
+                    imagePath = this.ImagePath,
+                    countryInfo = this.CountryInfo.countryDTO
+                };
+            }
+        }
         
 
         public int PersonID { set; get; }

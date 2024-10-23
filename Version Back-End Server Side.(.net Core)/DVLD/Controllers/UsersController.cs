@@ -1,6 +1,7 @@
 ﻿using DVLD.Global.Classes;
 using DVLD_Buisness;
 using DVLD_DataAccess;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -14,6 +15,7 @@ namespace DVLD.Controllers
         [HttpGet("GetAllUsers", Name = "GetAllUsers")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [Authorize]
         public ActionResult<IEnumerable<UsersListDTO>> GetAllUsers()
         {
             List<UsersListDTO> UsersList = clsUser.GetAllUsers();
@@ -30,7 +32,8 @@ namespace DVLD.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult<UserDTO> GetUserByID(int UserID)
+        [Authorize]
+        public IActionResult GetUserByID(int UserID)
         {
             if (UserID < 1)
                 return BadRequest("Not Accepted ID : " + UserID);
@@ -40,7 +43,7 @@ namespace DVLD.Controllers
             if (User == null)
                 return NotFound("User With ID : " + UserID + " Not Found !");
 
-            return Ok(User.userDTO);
+            return Ok(User.AllUserInfo);
 
         }
 
@@ -50,7 +53,8 @@ namespace DVLD.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult<UserDTO> GetUserByPersonID(int PersonID)
+        [Authorize]
+        public IActionResult GetUserByPersonID(int PersonID)
         {
             if (PersonID < 1)
                 return BadRequest("Not Accepted ID : " + PersonID);
@@ -60,14 +64,15 @@ namespace DVLD.Controllers
             if (User == null)
                 return NotFound("User With Person ID : " + PersonID + " Not Found !");
 
-            return Ok(User.userDTO);
+            return Ok(User.AllUserInfo);
 
         }
 
         [HttpGet("GetUserByUserNameAndPassword/{UserName},{Password}", Name = "GetUserByUserNameAndPassword")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public ActionResult<UserDTO> GetUserByUserNameAndPassword(string UserName,string Password)
+        [Authorize]
+        public IActionResult GetUserByUserNameAndPassword(string UserName,string Password)
         {
             string PasswordHashed=clsCryptography.ComputeHash(Password);
             clsUser User = clsUser.FindByUserNameAndPassword(UserName, PasswordHashed);
@@ -75,7 +80,7 @@ namespace DVLD.Controllers
             if (User == null)
                 return NotFound("User With  UserName : " + UserName + " And Password : "+Password+ " Not Found !");
 
-            return Ok(User.userDTO);
+            return Ok(User.AllUserInfo);
 
         }
 
@@ -84,7 +89,8 @@ namespace DVLD.Controllers
         [HttpGet("GetUserByUserName/{UserName}", Name = "GetUserByUserName")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public ActionResult<UserDTO> GetUserByUserName(string UserName)
+        [Authorize]
+        public IActionResult GetUserByUserName(string UserName)
         {
             
             clsUser User = clsUser.FindByUserName(UserName);
@@ -92,7 +98,7 @@ namespace DVLD.Controllers
             if (User == null)
                 return NotFound("User With  UserName : " + UserName + " Not Found !");
 
-            return Ok(User.userDTO);
+            return Ok(User.AllUserInfo);
 
         }
 
@@ -102,7 +108,8 @@ namespace DVLD.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult IsUserExistByUserID(int UserID)
+        [Authorize]
+        public IActionResult IsUserExistByUserID(int UserID)
         {
             if(UserID < 1)
                 return BadRequest("Not Accepted ID : " + UserID);
@@ -120,8 +127,8 @@ namespace DVLD.Controllers
         [HttpGet("IsUserExistByUserName/{UserName}", Name = "IsUserExistByUserName")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        
-        public ActionResult IsUserExistByUserName(string UserName)
+        [Authorize]
+        public IActionResult IsUserExistByUserName(string UserName)
         {
             
 
@@ -138,7 +145,8 @@ namespace DVLD.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult IsUserExistByPersonID(int PersonID)
+        [Authorize]
+        public IActionResult IsUserExistByPersonID(int PersonID)
         {
             if (PersonID < 1)
                 return BadRequest("Not Accepted ID : " + PersonID);
@@ -157,7 +165,8 @@ namespace DVLD.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status409Conflict)]
-        public ActionResult DeleteUser(int UserID)
+        [Authorize]
+        public IActionResult DeleteUser(int UserID)
         {
             if (UserID < 1)
                 return BadRequest("Not Accepted ID : " + UserID);
@@ -179,7 +188,8 @@ namespace DVLD.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status409Conflict)]
-        public ActionResult<UserDTO> AddUser(UserDTO NewUserDTO)
+        [Authorize]
+        public IActionResult AddUser(UserDTO NewUserDTO)
         {
             if (NewUserDTO == null || string.IsNullOrEmpty(NewUserDTO.UserName) ||
                  string.IsNullOrEmpty(NewUserDTO.Password) || NewUserDTO.PersonID<1)
@@ -206,10 +216,13 @@ namespace DVLD.Controllers
                 return StatusCode(409, "Error Add User ,! no row add");
 
 
-            NewUserDTO.UserID = User.UserID;
-            NewUserDTO.Password= PasswordHashed;
 
-            return CreatedAtRoute("GetUserByID", new { UserID = NewUserDTO.UserID }, NewUserDTO);
+
+            return CreatedAtRoute("GetUserByID", new { UserID = User.UserID }, 
+                new
+                {
+                    userInfo = User.AllUserInfo
+                });
 
 
         }
@@ -219,7 +232,7 @@ namespace DVLD.Controllers
         [ProducesResponseType(StatusCodes.Status409Conflict)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public ActionResult<UserDTO> UpdateUser(int UserID, UserDTO UpdatedUserDTO)
+        public IActionResult UpdateUser(int UserID, UserDTO UpdatedUserDTO)
         {
             if (UpdatedUserDTO == null || string.IsNullOrEmpty(UpdatedUserDTO.UserName) ||
                  string.IsNullOrEmpty(UpdatedUserDTO.Password) || UserID < 1 || UpdatedUserDTO.PersonID<1)
@@ -255,7 +268,10 @@ namespace DVLD.Controllers
                 return StatusCode(409, "Error Updating User");
 
 
-            return Ok(User.userDTO);
+            return Ok(new
+            {
+                userInfo = User.AllUserInfo
+            });
 
         }
 

@@ -11,10 +11,23 @@ namespace DVLD_Buisness
 {
     public class clsUser
     {
-       
+        
         public enum enMode { AddNew = 0, Update = 1 };
         public enMode Mode = enMode.AddNew;
 
+        public object AllUserInfo
+        {
+            get
+            {
+                return new 
+                {
+                    userID= this.UserID,
+                    userName = this.UserName,
+                    isActive = this.IsActive,
+                    personInfo = this.PersonInfo.AllPersonInfo,
+                };
+            }
+        }
         public UserDTO userDTO
         {
             get { return new UserDTO(this.PersonID, this.UserID, this.UserName, this.Password, this.IsActive); }

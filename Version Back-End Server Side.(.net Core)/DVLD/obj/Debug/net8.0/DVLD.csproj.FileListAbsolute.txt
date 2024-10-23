@@ -297,3 +297,4 @@ C:\Users\DELL PRO\Desktop\Karim\My All Files\All Projects\DVLD (Driving and Vehi
 C:\Users\DELL PRO\Desktop\Karim\My All Files\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD\obj\Debug\net8.0\DVLD.pdb
 C:\Users\DELL PRO\Desktop\Karim\My All Files\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD\obj\Debug\net8.0\DVLD.genruntimeconfig.cache
 C:\Users\DELL PRO\Desktop\Karim\My All Files\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD\obj\Debug\net8.0\ref\DVLD.dll
+C:\Users\DELL PRO\Desktop\Karim\My All Files\All Projects\DVLD (Driving and Vehicle Licens Department) 31-08-2024\Version Back-End Server Side.(.net Core)\DVLD\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

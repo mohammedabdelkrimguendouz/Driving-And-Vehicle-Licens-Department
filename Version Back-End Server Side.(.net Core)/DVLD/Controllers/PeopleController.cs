@@ -106,8 +106,7 @@ namespace DVLD.Controllers
 
             return Ok(new
             { 
-                personInfo = Person.personDTO,
-                countryInfo = Person.CountryInfo.countryDTO
+                personInfo = Person.AllPersonInfo,
             });
         }
 
@@ -128,8 +127,7 @@ namespace DVLD.Controllers
 
             return Ok(new
             {
-                personInfo = Person.personDTO,
-                countryInfo = Person.CountryInfo.countryDTO
+                personInfo = Person.AllPersonInfo,
             });
 
         }
@@ -191,12 +189,11 @@ namespace DVLD.Controllers
                 return StatusCode(409, "Error Add Person ,! no row add");
 
 
-            
+           
 
             return CreatedAtRoute("GetPersonByID", new { PersonID = Person.PersonID }, new
             {
-                personInfo = Person.personDTO,
-                countryInfo = Person.CountryInfo.countryDTO
+                personInfo = Person.AllPersonInfo,
             });
 
 
@@ -274,10 +271,9 @@ namespace DVLD.Controllers
 
 
 
-            return Ok( new
+            return Ok(new
             {
-                personInfo = Person.personDTO,
-                countryInfo = Person.CountryInfo.countryDTO
+                personInfo = Person.AllPersonInfo,
             });
 
         }
