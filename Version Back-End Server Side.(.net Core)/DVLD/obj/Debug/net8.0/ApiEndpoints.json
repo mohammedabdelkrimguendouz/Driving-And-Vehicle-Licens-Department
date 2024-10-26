@@ -134,6 +134,122 @@
     "EndpointName": "UpdateApplicationType"
   },
   {
+    "ContainingType": "Sales_BackEnd.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login/{UserName},{Password}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "Login"
+  },
+  {
+    "ContainingType": "Sales_BackEnd.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/Logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 409
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      }
+    ],
+    "EndpointName": "Logout"
+  },
+  {
+    "ContainingType": "Sales_BackEnd.Controllers.AuthController",
+    "Method": "Refresh",
+    "RelativePath": "api/Auth/Refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 409
+      }
+    ],
+    "EndpointName": "Refresh"
+  },
+  {
     "ContainingType": "DVLD.Controllers.ApplicationsController",
     "Method": "AddApplication",
     "RelativePath": "api/clsApplications/AddApplication",
@@ -3134,24 +3250,80 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "NewPersonDTO",
-        "Type": "DVLD_DataAccess.PersonDTO",
-        "IsRequired": true
+        "Name": "PersonID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NationalNo",
+        "Type": "System.String",
+        "IsRequired": false
       },
       {
         "Name": "Gender",
+        "Type": "System.Byte",
+        "IsRequired": false
+      },
+      {
+        "Name": "FirstName",
         "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SecondName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThirdName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LastName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Phone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DateOfBirth",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImagePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NationalityCountryID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
         "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "DVLD_DataAccess.PersonDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 201
       },
       {
@@ -3280,12 +3452,8 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DVLD_DataAccess.PersonDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       },
       {
@@ -3325,12 +3493,8 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DVLD_DataAccess.PersonDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       },
       {
@@ -3475,16 +3639,81 @@
   },
   {
     "ContainingType": "DVLD.Controllers.PeopleController",
-    "Method": "UploadPersonImage",
-    "RelativePath": "api/People/UploadPersonImage/{PersonID}",
-    "HttpMethod": "POST",
+    "Method": "UpdatePerson",
+    "RelativePath": "api/People/UpdatePerson",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "PersonID",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
+      },
+      {
+        "Name": "PersonID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "NationalNo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Gender",
+        "Type": "System.Byte",
+        "IsRequired": false
+      },
+      {
+        "Name": "FirstName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SecondName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThirdName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LastName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Phone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DateOfBirth",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImagePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NationalityCountryID",
+        "Type": "System.Int32",
+        "IsRequired": false
       },
       {
         "Name": "ImageFile",
@@ -3493,15 +3722,6 @@
       }
     ],
     "ReturnTypes": [
-      {
-        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
-      },
       {
         "Type": "System.Void",
         "MediaTypes": [],
@@ -3514,15 +3734,28 @@
           "application/json",
           "text/json"
         ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
         "StatusCode": 404
       },
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 500
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 409
       }
     ],
-    "EndpointName": "UploadPersonImage"
+    "EndpointName": "UpdatePerson"
   },
   {
     "ContainingType": "DVLD.Controllers.SettingsController",
@@ -4243,12 +4476,8 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DVLD_DataAccess.UserDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 201
       },
       {
@@ -4377,12 +4606,8 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DVLD_DataAccess.UserDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       },
       {
@@ -4422,12 +4647,8 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DVLD_DataAccess.UserDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       },
       {
@@ -4467,12 +4688,8 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DVLD_DataAccess.UserDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       },
       {
@@ -4508,12 +4725,8 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DVLD_DataAccess.UserDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       },
       {
@@ -4663,12 +4876,8 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DVLD_DataAccess.UserDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       },
       {

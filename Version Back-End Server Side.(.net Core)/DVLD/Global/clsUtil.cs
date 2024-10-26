@@ -12,6 +12,19 @@ namespace DVLD.Global_Classes
 {
     public class clsUtil
     {
+
+        static private string GetImageFolderPath()
+        {
+            // Set up configuration builder
+            var configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .Build();
+
+            // Reading a connection string
+            string ImageFolderPath = configuration.GetSection("ImageFolderPath").Value;
+            return ImageFolderPath;
+        }
         static public string GenerateGuid()
         {
             Guid NewGuid = Guid.NewGuid();
@@ -45,9 +58,10 @@ namespace DVLD.Global_Classes
             return GenerateGuid() + Ext;
         }
 
+
         static public async Task<string?> CopyImageToProjectImagesFolder(IFormFile ImageFile)
         {
-            string DestinationFolder = @"C:\DVLD-People-Images\";
+            string DestinationFolder = GetImageFolderPath();
             if (!CreateFolderIsNotExist(DestinationFolder))
                 return null;
 
@@ -87,6 +101,23 @@ namespace DVLD.Global_Classes
                 return false;
             }
             return true;
+        }
+
+        public static string GetMimeType(string FileName)
+        {
+            string UploadDirectory = @"C:\MyImages";
+            string FilePath = Path.Combine(UploadDirectory, FileName);
+
+            var Extension = Path.GetExtension(FilePath).ToLowerInvariant();
+
+            return Extension switch
+            {
+                ".jpg" => "image/jpg",
+                ".jpeg" => "image/jpeg",
+                ".png" => "image/png",
+                ".gif" => "image/gif",
+                _ => "application/octet-stream"
+            };
         }
 
 

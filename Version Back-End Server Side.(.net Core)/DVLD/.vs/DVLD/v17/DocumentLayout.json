@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My File\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\dvld (driving and vehicle licens department) 31-08-2024\\version back-end server side.(.net core)\\dvld\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|c:\\users\\dell pro\\desktop\\karim\\my all files\\all projects\\dvld (driving and vehicle licens department) 31-08-2024\\version back-end server side.(.net core)\\dvld\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{278C95AB-6C85-483B-A3F1-AA9B9AC359D3}|DVLD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T19:51:04.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\DELL PRO\\Desktop\\Karim\\My All Files\\All Projects\\DVLD (Driving and Vehicle Licens Department) 31-08-2024\\Version Back-End Server Side.(.net Core)\\DVLD\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA2wBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:52:38.108Z",
+              "EditorCaption": ""
             }
           ]
         }
